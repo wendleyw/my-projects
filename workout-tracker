@@ -1,0 +1,13 @@
+workout-tracker/
+├── public/
+│   ├── index.html
+│   ├── workouts.tsv       # Seu arquivo de dados
+│   ├── _redirects         # Arquivo de redirecionamento para o Netlify
+│   └── ...
+├── src/
+│   ├── App.js
+│   ├── components/
+│   │   └── WorkoutTracker.js  # Seu componente principal
+│   ├── index.js
+│   └── ...
+└── package.json
